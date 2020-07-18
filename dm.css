@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+    background-color: rgb(41, 41, 41);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#people, .container > div {
+    background-color: rgb(219, 219, 219);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#people,
+.container > div > div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+}
+
+.container > div{
+    width: 33%;
+}
+
+h4 {
+    text-align: center;
+    margin: 5px 0;
+}
+
+.divImg {
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    border-radius: 5px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+form {
+    position: absolute;
+    margin-left: 50px;
+}
+
+#info {
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+
+@media screen and (max-width: 650px){
+    .container {
+        flex-direction: column;
+    }
+    .container > div {
+        width: initial;
+    }
+}
+
+
+
