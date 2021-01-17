@@ -13,9 +13,9 @@ The aim was to develop a page to associate people with a specialty.
 
 ## Instructions
 
-* By right-clicking on a man, display a list allowing you to select the chosen specialty with validation button.
-* When clicking on the validation button, the man moves to the chosen specialty.
-* The 30 images will be dynamically created in JavaScript with a random background.
+* Right-clicking on a person displays a list allowing you to select the chosen specialty.
+* When clicking on the validation button, the person moves to the chosen specialty.
+* The 30 persons will be dynamically created in JavaScript with a random background.
 
 
 ## Overview
