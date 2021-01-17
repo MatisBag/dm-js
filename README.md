@@ -18,7 +18,7 @@ The goal was to develop a page to associate people with a specialty.
 * The 30 images will be dynamically created in JavaScript with a random background.
 
 
-## Aperçu
+## Overview
 
 ![home](capture.PNG)
 
