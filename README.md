@@ -2,7 +2,7 @@
 
 Click [here](http://mbaguelin.eemi.tech/HTML-CSS-JS/dm-js/) to see the project.
 
-The goal was to develop a page to associate people with a specialty.
+The aim was to develop a page to associate people with a specialty.
 
 
 ## Languages
