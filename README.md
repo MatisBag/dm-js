@@ -1,11 +1,11 @@
-# DM Javascript
+# First JS project
 
-Clique [ici](http://mbaguelin.eemi.tech/HTML-CSS-JS/dm-js/) pour visualiser le projet.
+Click [here](http://mbaguelin.eemi.tech/HTML-CSS-JS/dm-js/) to see the project.
 
-L’objectif était de développer une page permettant d’associer des personnes avec une spécialité.
+The goal was to develop a page to associate people with a specialty.
 
 
-## Langages utilisés 
+## Languages
 
 * HTML5 / CSS3
 * Javascript
@@ -13,18 +13,14 @@ L’objectif était de développer une page permettant d’associer des personne
 
 ## Instructions
 
-* Au clic droit sur un bonhomme, faire apparaître une liste déroulante permettant de sélectionner la spécialité choisie et un bouton de validation.
-* Au clic sur le bouton de validation, déplacement du bonhomme dans la spécialité retenue.
-* Les 30 bonhommes seront créés dynamiquement en JavaScript avec un background aléatoire.
+* By right-clicking on a man, display a list allowing you to select the chosen specialty with validation button.
+* When clicking on the validation button, the man moves to the chosen specialty.
+* The 30 images will be dynamically created in JavaScript with a random background.
 
 
 ## Aperçu
 
-![page accueil](capture.PNG)
+![home](capture.PNG)
 
 
-## Auteur(s) & date
-
-* **Matis BAGUELIN**
-
-*Mai 2020*
+*May 2020*
